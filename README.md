@@ -27,7 +27,7 @@ there has been a steady growth of terror activites from 1970 to 2017
 
 
 #### common attack method
-<img src="/images/main attack.png"/>
+<img src="/images/main attack types.png"/>
 
 Bombing/explotion is the most common form of attack with over 60,000 attacks recorded
 
