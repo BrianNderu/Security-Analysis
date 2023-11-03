@@ -37,4 +37,4 @@ Bombing/explotion is the most common form of attack with over 60,000 attacks rec
 civilians are the biggest casuality in the attacks among all groups
 
 #### correlation analysis
-Correlation between attack type(The general method of attack)  and nunmber of people killed: -0.0003575238651552964
+Correlation between attack type(The general method of attack)  and number of people killed: -0.0003575238651552964
